@@ -1,0 +1,11 @@
+body{
+    margin: 15px;
+}
+
+header{
+    background-color: rgb(255, 153, 0);
+}
+
+a{
+    display: flex
+}
